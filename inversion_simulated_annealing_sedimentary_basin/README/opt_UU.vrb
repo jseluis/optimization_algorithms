@@ -1,0 +1,10 @@
+\frametitle{Code}
+\begin{example}[Temperature decay:]
+temperatura = temperatura * tfactor
+\end{example}
+\begin{example}[Periodic heating process: ]
+IF ((temperatura \< 0.001).and.(emin > 0.1)) THEN
+temperatura = 7.0
+END IF
+END IF
+\end{example}
